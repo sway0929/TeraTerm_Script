@@ -1,0 +1,12 @@
+sendln '//======================================//'
+sendln '//  PFA Auto Command Test!!'
+sendln '//======================================//'
+
+for i 1 10
+ sendln '//  PFA Auto Command Test!!'
+ pause 3
+next
+
+
+send 'exit'
+sendln
